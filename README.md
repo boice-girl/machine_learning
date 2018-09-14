@@ -1,2 +1,2 @@
 # machine_learning
-some machine_learning methods
+some machine learning methods
